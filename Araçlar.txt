@@ -1,0 +1,55 @@
+arac yeri:A1
+giris saati:13:44
+yuksekligi:2.1
+plakasi:34
+
+arac yeri:A1
+giris saati:13:44
+yuksekligi:1
+plakasi:rf
+
+arac yeri:A2
+giris saati:13:44
+yuksekligi:2.1
+plakasi:rfeqw
+
+arac yeri:A1
+giris saati:13:47
+yuksekligi:2.1
+plakasi:123
+
+arac yeri:A1
+giris saati:13:47
+yuksekligi:2.1
+plakasi:21312
+
+arac yeri:A1
+giris saati:13:48
+yuksekligi:2.1
+plakasi:123
+
+arac yeri:A1
+giris saati:14:01
+yuksekligi:2.1
+plakasi:e2131
+
+arac yeri:A1
+giris saati:14:14
+yuksekligi:2.1
+plakasi:2312
+
+arac yeri:A2
+giris saati:14:14
+yuksekligi:1.9
+plakasi:2312
+
+arac yeri:A1
+giris saati:14:14
+yuksekligi:1.7
+plakasi:2312
+
+arac yeri:A1
+giris saati:14:15
+yuksekligi:1.9
+plakasi:1231
+
